@@ -10,15 +10,7 @@ Welcome to the comprehensive guide on coding bots for Bot Wars. This document ex
 - [Bot Actions](#bot-actions)
 - [Helper Libraries: Vectors](#helper-libraries-vectors)
   - [Detailed Vectors Library Documentation](#detailed-vectors-library-documentation)
-- [Designing Your Bot Strategy](#designing-your-bot-strategy)
 - [Example Bot Scripts](#example-bot-scripts)
-  - [1. Basic Direct Attack](#1-basic-direct-attack)
-  - [2. Centering Before Attacking](#2-centering-before-attacking)
-  - [3. Aggressive Bot with Safety](#3-aggressive-bot-with-safety)
-  - [4. Centrality-First, Aggressive Attack](#4-centrality-first-aggressive-attack)
-- [Best Practices & Tips](#best-practices--tips)
-- [Debugging & Optimization](#debugging--optimization)
-- [Conclusion](#conclusion)
 
 ---
 
