@@ -171,7 +171,8 @@ act.move({
 ```
 
 ```
-// Simple Bot: Move toward the center unless an enemy is within 150 units, then move toward the enemy with half force.
+// Simple Bot: Move toward the center unless an enemy is within 150 units,
+// then move toward the enemy with half force.
 let enemy = enemies[0];
 
 if (enemy.distance < 150) {
